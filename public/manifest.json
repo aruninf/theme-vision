@@ -1,0 +1,16 @@
+{
+  "name": "Theme Vision",
+  "short_name": "ThemeVision",
+  "description": "Preview complete websites and mobile apps with real UI before choosing your color palette.",
+  "start_url": "/theme-vision/",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/theme-vision/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
